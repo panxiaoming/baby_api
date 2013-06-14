@@ -1,4 +1,4 @@
 # 爱婴岛对接API
 ## 首页模块
-### [列表(product/list)](product/list.md)
-### [过滤(product/search)](product/search.md)
+### [product/list 获取最新商品列表](product/list.md)
+### [product/search 根据条件搜索商品](product/search.md)
